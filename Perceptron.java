@@ -10,8 +10,7 @@ public class Perceptron {
     public double waga0=generator.nextDouble();
     public double waga1=generator.nextDouble();
     public double waga2=generator.nextDouble();
-    //2)ustawione na wartość stałą
-    //public double waga0=0.5,waga1=0.5,waga2=0.5;
+  
 
     public int perceptronOut (double perceptronOut)
     {
